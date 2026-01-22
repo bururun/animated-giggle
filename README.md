@@ -35,3 +35,8 @@ MIT
 ## Update 7
 
 Latest improvements and bug fixes.
+
+
+## Update 8
+
+Latest improvements and bug fixes.
